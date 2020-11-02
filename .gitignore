@@ -3,3 +3,8 @@
 
 # Ignore Gradle build output directory
 build
+/bin/
+
+.project
+.classpath
+.DS_Store
